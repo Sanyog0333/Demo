@@ -1,4 +1,4 @@
 # Demo
 My first Repository..
 <br>
-Author - Sanyog Rana
+Author - Sanyog Prakash Rana
